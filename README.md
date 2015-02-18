@@ -1,0 +1,1 @@
+The project is an IOS realtime bar rating application. I customized the UI to use Beer Mugs as rating symbols and added a UITableView with customized expanding cells. The backend uses parse to store ratings that refresh on an hourly basis.
